@@ -1,0 +1,19 @@
+{
+  "author": "Samuel R. Mendez",
+  "description": "Portfolio page of Samuel R. Mendez, PhD candidate at Harvard T.H. Chan School of Public Health.",
+  "short_name": "samuelAnimates Portfolio",
+  "name": "Samuel R. Mendez Portfolio",
+  "manifest_version": "1.0",
+  "version": "1.0",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
