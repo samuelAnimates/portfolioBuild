@@ -1,10 +1,6 @@
 {
-  "author": "Samuel R. Mendez",
-  "description": "Portfolio page of Samuel R. Mendez, PhD candidate at Harvard T.H. Chan School of Public Health.",
-  "short_name": "samuelAnimates Portfolio",
-  "name": "Samuel R. Mendez Portfolio",
-  "manifest_version": "1.0",
-  "version": "1.0",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",

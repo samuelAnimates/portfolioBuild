@@ -1,0 +1,38 @@
+.plays-individual-container-default{
+	background-color: rgb(251,251,251);
+	color: rgb(5,5,5);
+}
+.plays-individual-container-highContrast{
+	color: rgb(254,254,254);
+	background-color: rgb(2,2,2);
+}
+.display-flex{
+	display: flex;
+}
+.flex-direction-column{
+	flex-direction: column;
+}
+.flex-direction-row{
+	flex-direction: row;
+}
+.font-weight-700{
+	font-weight: 700;
+}
+.margin-auto{
+	margin: auto;
+}
+.padding-bottom-p5em{
+	padding-bottom: 0.5em;
+}
+.padding-left-p5em{
+	padding-left: 0.5em;
+}
+.padding-top-p5em{
+	padding-top: 0.5em;
+}
+.text-center{
+	text-align: center;
+}
+.width-50pc{
+	width: 50%;
+}

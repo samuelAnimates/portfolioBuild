@@ -1,0 +1,63 @@
+.mediaProjectPageOverview-color-scheme-default{
+	background-color: rgb(255, 219, 234);
+}
+.mediaProjectPageOverview-color-scheme-highContrast{
+	background-color: rgb(5, 0, 0);
+}
+.color-inherit{
+	color: inherit;
+}
+.display-flex{
+	display: flex;
+}
+.flex-direction-column{
+	flex-direction: column;
+}
+.left-0{
+	left: 0;
+}
+.list-style-type-none{
+	list-style-type: none;
+}
+.padding-bottom-p25em{
+	padding-bottom: 0.25em;
+}
+.padding-bottom-1em{
+	padding-bottom: 1em;
+}
+.padding-left-p25em{
+	padding-left: 0.25em;
+}
+.padding-left-p5em{
+	padding-left: 0.5em;
+}
+.padding-left-1em{
+	padding-left: 1em;
+}
+.padding-right-p25em{
+	padding-right: 0.25em;
+}
+.padding-right-p5em{
+	padding-right: 0.5em;
+}
+.padding-right-1em{
+	padding-right: 1em;
+}
+.padding-top-p25em{
+	padding-top: 0.25em;
+}
+.padding-top-p5em{
+	padding-top: 0.5em;
+}
+.padding-top-1em{
+	padding-top: 1em;
+}
+.text-center{
+	text-align: center;
+}
+.text-indent-neg1p7em{
+	text-indent: -1.7em;
+}
+.text-left{
+	text-align: left;
+}
